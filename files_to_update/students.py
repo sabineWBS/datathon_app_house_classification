@@ -1,18 +1,6 @@
 students = [
-    "Aslam",
-    "Daniel_A",
-    "Daniel_D",
-    "Huy",
-    "Icaro",
-    "Ilkay",
-    "Kayla",
-    "Komal",
-    "Nabil",
-    "Orjada",
-    "Peter",
-    "Sebastian",
-    "Sherwan",
-    "Simon",
-    "Tobias",
+    "Ivo",
+    "Ivana",
+    "Kevin",
     "wbs_bot"
 ]
